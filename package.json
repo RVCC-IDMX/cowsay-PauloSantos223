@@ -1,0 +1,12 @@
+{
+  "name": "cowsay-paulosantos223",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paulo Santos <G00298711@stu.raritanval.edu> (https://github.com/PauloSantos223)",
+  "license": "MIT"
+}
