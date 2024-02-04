@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay"
   },
   "keywords": [],
   "author": "Paulo Santos <G00298711@stu.raritanval.edu> (https://github.com/PauloSantos223)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
 }
